@@ -1,4 +1,4 @@
-// CodeFprces Solution Set 
+// CodeForces Solution Set 
 // Mohammad Amaan Sharif
 // amaan_272
 
